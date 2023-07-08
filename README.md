@@ -1,6 +1,6 @@
 Privacy Policy for Refractive Error Calculator
 
-This privacy policy governs your use of the software application Refractive Error Calculator (“Application”) for mobile devices. The Application is developed by [Your Name/Company Name] (“We” or “Us”).
+This privacy policy governs your use of the software application Refractive Error Calculator (“Application”) for mobile devices. The Application is developed by Frederic Vanderveken (“We” or “Us”).
 
 User-Provided Information
 The Application does not require you to provide any information and does not collect any user-provided data.
@@ -24,4 +24,4 @@ Your Consent
 By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
 
 Contact us
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at [Your Email Address].
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at frederic1vanderveken+app@gmail.com.
